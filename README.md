@@ -1,4 +1,4 @@
-# node_transacoes_bancarias
+# ruby_transacoes_bancarias
 
 Projeto criado para demonstrar como desenvolver uma console com ruby com testes. Esse projeto foi desenvolvido com testes.
 
