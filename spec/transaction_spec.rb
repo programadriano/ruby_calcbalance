@@ -1,7 +1,6 @@
 
 require "./transaction.rb"
 
-#transaction = Transaction.new()
 describe Transaction do
   context "Teste de transacoes bancarias" do
     it "Deve creditar um valor na conta" do
